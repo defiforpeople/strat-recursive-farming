@@ -3,6 +3,8 @@
     "@aave/core-v3": "^1.13.1",
     "@aave/periphery-v3": "^1.10.0",
     "@chainlink/contracts": "^0.4.1",
+    "@ethereum-waffle/chai": "^3.4.4",
+    "@ethereum-waffle/mock-contract": "^3.4.4",
     "@ethersproject/abi": "^5.4.7",
     "@ethersproject/providers": "^5.4.7",
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
